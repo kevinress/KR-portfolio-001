@@ -8,7 +8,7 @@ My projects are a work in progress, and I’m continuously updating them as I le
 
 ## Preview
 [![a](https://img.youtube.com/vi/ziXyye6DDTY/maxresdefault.jpg)](https://youtu.be/ziXyye6DDTY "My Recipe App - Click to Watch!")
-Click image above to watch the video
+Click the image above to watch the video.
 
 
 ## Screenshots
@@ -25,6 +25,7 @@ Click image above to watch the video
 
 ## Project Maintained By
 <b>Kevin</b>
+<br>
 Computer Science Student
 <br>
 <a href="https://www.linkedin.com/in/kevin-841b2412a/"><img src="https://i.ibb.co.com/sgLQQpX/linked-In-logo.png" width="60"></a>
