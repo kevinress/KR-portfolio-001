@@ -8,15 +8,13 @@ My projects are a work in progress, and I’m continuously updating them as I le
 
 ## Preview
 [![a](https://img.youtube.com/vi/ziXyye6DDTY/maxresdefault.jpg)](https://youtu.be/ziXyye6DDTY "My Recipe App - Click to Watch!")
+Click image above to watch the video
 
 
 ## Screenshots
-<img src="https://i.ibb.co.com/FWfGwvZ/SS-My-Recipe-3.jpg" alt="SS-My-Recipe-3" width="250">
-<img src="https://i.ibb.co.com/ByzdJM5/SS-My-Recipe-7.jpg" alt="SS-My-Recipe-7" width="250">
-<img src="https://i.ibb.co.com/ngcFjJ6/SS-My-Recipe-4.jpg" alt="SS-My-Recipe-4" width="250">
-<img src="https://i.ibb.co.com/jkbYr7T/SS-My-Recipe-5.jpg" alt="SS-My-Recipe-5" width="250">
-<img src="https://i.ibb.co.com/ZMV2Cz1/SS-My-Recipe-1.jpg" alt="SS-My-Recipe-1" width="250">
-<img src="https://i.ibb.co.com/xzSJZQ5/SS-My-Recipe-2.jpg" alt="SS-My-Recipe-2" width="250">
+<img src="https://i.ibb.co.com/FWfGwvZ/SS-My-Recipe-3.jpg" alt="SS-My-Recipe-3" width="250"> <img src="https://i.ibb.co.com/ByzdJM5/SS-My-Recipe-7.jpg" alt="SS-My-Recipe-7" width="250">
+<img src="https://i.ibb.co.com/ngcFjJ6/SS-My-Recipe-4.jpg" alt="SS-My-Recipe-4" width="250"> <img src="https://i.ibb.co.com/jkbYr7T/SS-My-Recipe-5.jpg" alt="SS-My-Recipe-5" width="250">
+<img src="https://i.ibb.co.com/ZMV2Cz1/SS-My-Recipe-1.jpg" alt="SS-My-Recipe-1" width="250"> <img src="https://i.ibb.co.com/xzSJZQ5/SS-My-Recipe-2.jpg" alt="SS-My-Recipe-2" width="250">
 <img src="https://i.ibb.co.com/PcBKvZG/SS-My-Recipe-6.jpg" alt="SS-My-Recipe-6" width="250">
 
 ## Project Setup
@@ -28,5 +26,6 @@ My projects are a work in progress, and I’m continuously updating them as I le
 ## Project Maintained By
 <b>Kevin</b>
 Computer Science Student
+<br>
 <a href="https://www.linkedin.com/in/kevin-841b2412a/"><img src="https://i.ibb.co.com/sgLQQpX/linked-In-logo.png" width="60"></a>
 
